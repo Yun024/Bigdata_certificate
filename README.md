@@ -11,10 +11,18 @@ Url : https://www.kaggle.com/datasets/agileteam/bigdatacertificationkr
 ###### DataManim
 Url : https://www.datamanim.com/intro.html
 
-## Kaggle 
+## Kaggle
 |문제|코드|
 |:---:|:---:|
-|Getting & Knowing Data|https://github.com/Yun024/Bigdata_certificate/blob/main/DataManim/Getting%20%26%20Knowing%20Data.py|
+
+
+
 ## DataManim
 |문제|코드|
 |:---:|:---:|
+|Getting & Knowing Data|https://github.com/Yun024/Bigdata_certificate/blob/main/DataManim/Getting%20%26%20Knowing%20Data.py|
+|Filtering & Sorting|https://github.com/Yun024/Bigdata_certificate/blob/main/DataManim/Filtering%20%26%20Sorting.py|
+|Grouping|https://github.com/Yun024/Bigdata_certificate/blob/main/DataManim/Grouping.py|
+|Apply, Map|https://github.com/Yun024/Bigdata_certificate/blob/main/DataManim/Apply%2C%20Map.py|
+|Time_Series|https://github.com/Yun024/Bigdata_certificate/blob/main/DataManim/Time_Series.py|
+
