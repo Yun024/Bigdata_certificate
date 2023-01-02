@@ -11,13 +11,13 @@
 > + DataManim_Url : https://www.datamanim.com/intro.html
 
 ## Kaggle
-|문제|코드|
+|Title|CodeLink|
 |:---:|:---:|
 
 
 
 ## DataManim
-|문제|코드|
+|Title|CodeLink|
 |:---:|:---:|
 |Getting & Knowing Data|*[Code](https://github.com/Yun024/Bigdata_certificate/blob/main/DataManim/Getting%20%26%20Knowing%20Data.py)*|
 |Filtering & Sorting|*[Code](https://github.com/Yun024/Bigdata_certificate/blob/main/DataManim/Filtering%20%26%20Sorting.py)*|
