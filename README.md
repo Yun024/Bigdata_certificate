@@ -9,7 +9,7 @@
 
 ## short_answer(단답형)
 > + Blog_Url : https://5ohyun.tistory.com/113
-> + *[Scraping_Code](https://github.com/Yun024/Web_crawling/blob/main/Python/Webscraping_table(short-answer).py)*
+> + *[Scraping_Code](https://github.com/Yun024/Bigdata_certificate/blob/main/Webscraping_table(short-answer).py)*
 
 ## Site Link
 > + Kaggle_Url : https://www.kaggle.com/datasets/agileteam/bigdatacertificationkr
